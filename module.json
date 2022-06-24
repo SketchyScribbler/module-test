@@ -1,0 +1,19 @@
+{
+    "name": "dungeons-and-dragons-dogma-spells",
+    "title": "Dungeons & Dragons Dogma Spells",
+    "description": "A collection of converted spells from the Mage and Sorcerer vocations from Dragons Dogma for D&D 5e.",
+    "version": "1.0.0",
+    "author": "Ave Luedeman",
+    "minimumCoreVersion": "0.7.5",
+    "compatibleCoreVersion": "0.7.9",
+    "packs": [
+        {
+            "name": "dungeons-and-dragons-dogma-spells",
+            "label": "Dungeons & Dragons Dogma Spells",
+            "path": "./packs/ddda-spells.db",
+            "entity": "Item"
+        }
+    ],
+    "manifest": "",
+    "download": ""
+  }
